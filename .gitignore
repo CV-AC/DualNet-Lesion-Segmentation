@@ -1,0 +1,8 @@
+.idea
+__pycache__
+*/save/
+output/
+data/
+dual-HED/models/5stage-vgg.py36pickle
+dual-segmentation-toolbox/networks/resnet50-imagenet.pth
+/save/
